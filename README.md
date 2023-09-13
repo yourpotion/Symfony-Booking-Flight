@@ -49,12 +49,11 @@ Clone the repository:
 
    ```bash
    git clone https://github.com/youtpotion/symfony-booking-flight.git
-      ```
+   ```
 
 Navigate to the project directory:
 
    ```bash
-
   cd symfony-booking-flight
    ```
 Install dependencies:
@@ -68,7 +67,6 @@ Configure your PostgreSQL database connection in .env.
 Start Docker containers (for virtualization):
 
    ```bash
-
 docker-compose up -d
    ```
 Run migrations:
