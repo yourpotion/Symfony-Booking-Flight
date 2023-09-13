@@ -45,11 +45,12 @@ Symfony Booking Flight is an Enterprise Resource Planning (ERP) system designed 
 
 To run this application locally, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/youtpotion/symfony-booking-flight.git
       ```
+
 Navigate to the project directory:
 
    ```bash
